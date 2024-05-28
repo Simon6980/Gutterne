@@ -1,0 +1,53 @@
+.navbar ul{
+    list-style-type: none;
+    background-color: rgb(207, 4, 207);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.media{
+    list-style-type: none;
+}
+.media a{
+    text-decoration: none;
+    color: blueviolet;
+}
+.media a:hover{
+color: gold;
+}
+.navbar a:hover{
+    background-color: rgb(108, 1, 85);
+}
+.navbar li{
+    float: left;
+}
+img{
+    width: 300px;
+}
+h1{
+    text-align: center;
+}
+h2{
+    margin: 0px;
+}
+body{
+    margin: 0px;
+    background-color: rgb(226, 206, 241);
+}
+main{
+    margin-left: 20px;
+    margin-right: 500px;
+}
+.galleri{
+    display: inline-block;
+    width: 300px;
+    margin: 5px;
+    text-decoration: none;
+}
